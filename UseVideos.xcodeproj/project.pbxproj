@@ -87,7 +87,6 @@
 		FA28596221D6C84100467CA4 = {
 			isa = PBXGroup;
 			children = (
-				FA2859A021D6CB4C00467CA4 /* ViewControllerEmbbed.swift */,
 				FA28596D21D6C84100467CA4 /* UseVideos */,
 				FA28598221D6C84C00467CA4 /* UseVideosTests */,
 				FA28598D21D6C84C00467CA4 /* UseVideosUITests */,
@@ -110,6 +109,7 @@
 			children = (
 				FA2859A221D6CF2F00467CA4 /* Model */,
 				FA28596E21D6C84100467CA4 /* AppDelegate.swift */,
+				FA2859A021D6CB4C00467CA4 /* ViewControllerEmbbed.swift */,
 				FA28597021D6C84100467CA4 /* ViewController.swift */,
 				FA28597221D6C84100467CA4 /* Main.storyboard */,
 				FA28597521D6C84B00467CA4 /* Assets.xcassets */,
